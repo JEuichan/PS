@@ -1,0 +1,18 @@
+# 빌드 결과물
+*.out
+*.exe
+*.o
+*.class
+a.out
+
+# 에디터 · OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
+
+# 로컬 테스트 입출력
+input.txt
+output.txt
+.omc/
